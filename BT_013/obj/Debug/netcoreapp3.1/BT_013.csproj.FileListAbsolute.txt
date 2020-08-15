@@ -1,0 +1,12 @@
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BT_013\bin\Debug\netcoreapp3.1\BT_013.exe
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BT_013\bin\Debug\netcoreapp3.1\BT_013.deps.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BT_013\bin\Debug\netcoreapp3.1\BT_013.runtimeconfig.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BT_013\bin\Debug\netcoreapp3.1\BT_013.runtimeconfig.dev.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BT_013\bin\Debug\netcoreapp3.1\BT_013.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BT_013\bin\Debug\netcoreapp3.1\BT_013.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BT_013\obj\Debug\netcoreapp3.1\BT_013.AssemblyInfoInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BT_013\obj\Debug\netcoreapp3.1\BT_013.AssemblyInfo.cs
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BT_013\obj\Debug\netcoreapp3.1\BT_013.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BT_013\obj\Debug\netcoreapp3.1\BT_013.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BT_013\obj\Debug\netcoreapp3.1\BT_013.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BT_013\obj\Debug\netcoreapp3.1\BT_013.genruntimeconfig.cache

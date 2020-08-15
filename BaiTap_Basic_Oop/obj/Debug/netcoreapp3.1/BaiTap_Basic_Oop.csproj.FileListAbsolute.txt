@@ -1,0 +1,13 @@
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BaiTap_Basic_Oop\bin\Debug\netcoreapp3.1\BaiTap_Basic_Oop.exe
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BaiTap_Basic_Oop\bin\Debug\netcoreapp3.1\BaiTap_Basic_Oop.deps.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BaiTap_Basic_Oop\bin\Debug\netcoreapp3.1\BaiTap_Basic_Oop.runtimeconfig.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BaiTap_Basic_Oop\bin\Debug\netcoreapp3.1\BaiTap_Basic_Oop.runtimeconfig.dev.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BaiTap_Basic_Oop\bin\Debug\netcoreapp3.1\BaiTap_Basic_Oop.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BaiTap_Basic_Oop\bin\Debug\netcoreapp3.1\BaiTap_Basic_Oop.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BaiTap_Basic_Oop\obj\Debug\netcoreapp3.1\BaiTap_Basic_Oop.AssemblyInfoInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BaiTap_Basic_Oop\obj\Debug\netcoreapp3.1\BaiTap_Basic_Oop.AssemblyInfo.cs
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BaiTap_Basic_Oop\obj\Debug\netcoreapp3.1\BaiTap_Basic_Oop.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BaiTap_Basic_Oop\obj\Debug\netcoreapp3.1\BaiTap_Basic_Oop.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BaiTap_Basic_Oop\obj\Debug\netcoreapp3.1\BaiTap_Basic_Oop.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BaiTap_Basic_Oop\obj\Debug\netcoreapp3.1\BaiTap_Basic_Oop.genruntimeconfig.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\BaiTap_Basic_Oop\obj\Debug\netcoreapp3.1\BaiTap_Basic_Oop.csprojAssemblyReference.cache
