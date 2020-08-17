@@ -39,11 +39,20 @@ namespace BT_033
 
 
             Console.WriteLine("Bài 37: Tính S(n) = CanBac N(N + CanBac N – 1(N – 1 + … + CanBac3(3 + CanBac2(2))) có n – 1 dấu căn");
-            double luy_thua_n = myLuyThua.luyThuaN(10, 2);
-            Console.WriteLine(luy_thua_n);
+            i = 3;
+            result = myCanBacN.canBacN(2, 2);
+            while (i<=n)
+            {
+                result += i;
+                result = myCanBacN.canBacN(i, result);
+                i++;
 
-            double canN = myCanBacN.canBacN(5, 32);
-            Console.WriteLine(canN);
+
+            }
+
+            result = myCanBacN.canBacN(10, 1024);
+          
+            Console.WriteLine("ket qua la:{0}",result);
 
 
 

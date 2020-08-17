@@ -12,7 +12,7 @@ namespace BT_033
             double result = 1;
             while (i <= n)
             {
-                result *=(double) x;
+                result *= (double)x;
                 i++;
             }
             return result;
