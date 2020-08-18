@@ -50,7 +50,7 @@ namespace BT_033
 
             }
 
-            result = myCanBacN.canBacN(10, 1024);
+            result = myCanBacN.canBacN(2, 1024);
           
             Console.WriteLine("ket qua la:{0}",result);
 
