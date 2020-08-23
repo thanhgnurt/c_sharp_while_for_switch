@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Can_Bac_N/1.0.0": {
+        "runtime": {
+          "Can_Bac_N.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Can_Bac_N/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

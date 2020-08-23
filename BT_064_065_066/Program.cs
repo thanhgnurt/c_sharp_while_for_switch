@@ -8,6 +8,7 @@ namespace BT_064_065_066
         static void Main(string[] args)
         {
             pt_bac_4 pt = new pt_bac_4();
+
             Console.WriteLine("Hello World!");
             Console.WriteLine("hay nhap a:");
             int a = int.Parse(Console.ReadLine());

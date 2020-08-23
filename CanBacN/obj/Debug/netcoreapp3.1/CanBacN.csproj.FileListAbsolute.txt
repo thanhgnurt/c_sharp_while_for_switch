@@ -1,0 +1,13 @@
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\CanBacN\bin\Debug\netcoreapp3.1\CanBacN.exe
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\CanBacN\bin\Debug\netcoreapp3.1\CanBacN.deps.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\CanBacN\bin\Debug\netcoreapp3.1\CanBacN.runtimeconfig.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\CanBacN\bin\Debug\netcoreapp3.1\CanBacN.runtimeconfig.dev.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\CanBacN\bin\Debug\netcoreapp3.1\CanBacN.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\CanBacN\bin\Debug\netcoreapp3.1\CanBacN.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\CanBacN\obj\Debug\netcoreapp3.1\CanBacN.AssemblyInfoInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\CanBacN\obj\Debug\netcoreapp3.1\CanBacN.AssemblyInfo.cs
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\CanBacN\obj\Debug\netcoreapp3.1\CanBacN.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\CanBacN\obj\Debug\netcoreapp3.1\CanBacN.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\CanBacN\obj\Debug\netcoreapp3.1\CanBacN.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\CanBacN\obj\Debug\netcoreapp3.1\CanBacN.genruntimeconfig.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\BT_NMLT\CanBacN\obj\Debug\netcoreapp3.1\CanBacN.csprojAssemblyReference.cache

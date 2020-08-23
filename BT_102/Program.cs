@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime;
 
 namespace BT_102
 {
@@ -17,12 +18,72 @@ namespace BT_102
         {
             Program myprogram = new Program();
             Console.WriteLine("Bài 102: Viết chương trình nhập vào 1 ngày ( ngày, tháng, năm). Tìm ngày kế ngày vừa nhập (ngày, tháng, năm)");
-            Console.WriteLine("hay nhap ngay:");
-            int ngay = int.Parse(Console.ReadLine());
-            Console.WriteLine("Hay nhap thang:");
-            int thang = int.Parse(Console.ReadLine());
             Console.WriteLine("Hay nhap nam");
             int nam = int.Parse(Console.ReadLine());
+            Console.WriteLine("Hay nhap thang:");
+            int thang = int.Parse(Console.ReadLine());
+            int ngay = 0;
+            string tin_nhan = "";
+            while (true)
+            {
+                Console.WriteLine("Hay nhap ngay:");
+                ngay = int.Parse(Console.ReadLine());
+                switch (thang)
+                {
+                    case 1:
+                    case 3:
+                    case 5:
+                    case 7:
+                    case 8:
+                    case 10:
+                    case 12:
+                        if (ngay > 31)
+                        {
+                            ngay = 0;
+                            tin_nhan = "Thang " + thang + " khong duoc qua 31 ngay";
+                        }
+                        break;
+                    case 4:
+                    case 6:
+                    case 9:
+                    case 11:
+                        if(ngay>30 )
+                        {
+                            ngay = 0;
+                            tin_nhan = "Thang " + thang + " khong duoc qua 31 ngay";
+                        }
+                        break;
+                    case 2:
+                        if (myprogram.kiem_tra_nam_nhuan(nam))
+                        {
+                            if(ngay > 29)
+                            {
+                                ngay = 0;
+                                tin_nhan = "Thang " + thang + " nam nhuan khong duoc qua 29 ngay";
+                            }
+
+                        } else
+                        {
+                            if (ngay > 28)
+                            {
+                                ngay = 0;
+                                tin_nhan = "Thang " + thang + " nam thuong khong duoc qua 28 ngay";
+                            }
+                        }
+                        break;
+
+                }
+                if (ngay > 0)
+                {
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("{0}, Vui long nhap lai.", tin_nhan);
+                }
+            }
+            
+
             bool kt_nam_nhuan = myprogram.kiem_tra_nam_nhuan(nam);
             switch (ngay)
             {
